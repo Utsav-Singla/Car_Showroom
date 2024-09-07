@@ -1,0 +1,54 @@
+{
+  "features":[
+  {
+    "label": "Air Conditioning",
+    "name": "airConditioning",
+    "fieldType": "checkbox"
+  },
+  {
+    "label": "Bluetooth",
+    "name": "bluetooth",
+    "fieldType": "checkbox"
+  },
+  {
+    "label": "Cruise Control",
+    "name": "cruiseControl",
+    "fieldType": "checkbox"
+  },
+  {
+    "label": "Backup Camera",
+    "name": "backupCamera",
+    "fieldType": "checkbox"
+  },
+  {
+    "label": "Navigation System",
+    "name": "navigationSystem",
+    "fieldType": "checkbox"
+  },
+  {
+    "label": "Sunroof",
+    "name": "sunroof",
+    "fieldType": "checkbox"
+  },
+  {
+    "label": "Leather Seats",
+    "name": "leatherSeats",
+    "fieldType": "checkbox"
+  },
+  {
+    "label": "Heated Seats",
+    "name": "heatedSeats",
+    "fieldType": "checkbox"
+  },
+  {
+    "label": "Alloy Wheels",
+    "name": "alloyWheels",
+    "fieldType": "checkbox"
+  },
+  {
+    "label": "Parking Sensors",
+    "name": "parkingSensors",
+    "fieldType": "checkbox"
+  }
+]
+}

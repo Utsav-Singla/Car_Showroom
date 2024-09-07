@@ -1,0 +1,140 @@
+{
+  "carDetails": [
+  {
+    "label": "Title",
+    "name": "title",
+    "fieldType": "text",
+    "required": true,
+    "column": 2,
+    "icon": "AiOutlineTag"
+  },
+  {
+    "label": "Original Price",
+    "name": "originalPrice",
+    "fieldType": "number",
+    "required": true,
+    "column": 2,
+    "icon": "AiOutlineDollar"
+  },
+  {
+    "label": "Category",
+    "name": "category",
+    "fieldType": "dropdown",
+    "required": true,
+    "column": 2,
+    "icon": "AiOutlineAppstore",
+    "options": [
+      "Ferrari",
+      "SUV",
+      "Truck",
+      "Van",
+      "Hyundai"
+    ]
+  },
+  {
+    "label": "Model",
+    "name": "model",
+    "fieldType": "text",
+    "required": true,
+    "column": 2,
+    "icon": "AiOutlineCar"
+  },
+  {
+    "label": "Drive Type",
+    "name": "driveType",
+    "fieldType": "text",
+    "required": false,
+    "column": 2,
+    "icon": "AiOutlineCar"
+  },
+  {
+    "label": "Fuel Type",
+    "name": "fuelType",
+    "fieldType": "text",
+    "required": true,
+    "column": 2,
+    "icon": "AiOutlineFire"
+  },
+  {
+    "label": "Tagline",
+    "name": "tagline",
+    "fieldType": "text",
+    "required": false,
+    "column": 2,
+    "icon": "AiOutlineInfoCircle"
+  },
+  {
+    "label": "Selling Price",
+    "name": "sellingPrice",
+    "fieldType": "number",
+    "required": true,
+    "column": 2,
+    "icon": "AiOutlineDollarCircle"
+  },
+  {
+    "label": "Condition",
+    "name": "condition",
+    "fieldType": "dropdown",
+    "required": true,
+    "column": 2,
+    "icon": "AiOutlineCheckCircle",
+    "options": [
+      "New",
+      "Used",
+      "Certified Pre-Owned"
+    ]
+  },
+  {
+    "label": "Make",
+    "name": "make",
+    "fieldType": "dropdown",
+    "required": true,
+    "column": 2,
+    "icon": "AiOutlineBuild",
+    "options": [
+      "Ferrari",
+      "Hyundai",
+      "BMW",
+      "Mercedes",
+      "Toyota"
+    ]
+  },
+  {
+    "label": "Year",
+    "name": "year",
+    "fieldType": "number",
+    "required": true,
+    "column": 2,
+    "icon": "AiOutlineCalendar"
+  },
+  {
+    "label": "Transmission",
+    "name": "transmission",
+    "fieldType": "dropdown",
+    "required": false,
+    "column": 2,
+    "icon": "AiOutlineSwap",
+    "options": [
+      "Automatic",
+      "Manual",
+      "Semi-Automatic"
+    ]
+  },
+  {
+    "label": "Mileage",
+    "name": "mileage",
+    "fieldType": "number",
+    "required": true,
+    "column": 2,
+    "icon": "AiOutlineDashboard"
+  },
+  {
+    "label": "Listing",
+    "name": "listing",
+    "fieldType": "textarea",
+    "required": true,
+    "column": 2,
+    "icon": "AiOutlineFileText"
+  }
+]
+}
